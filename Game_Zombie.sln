@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_Zombie.UI", "Game_Zombie.UI\Game_Zombie.UI.csproj", "{BDBC4B6F-1D3D-4592-A2CF-22641AACB4B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - FrontEnd", "1 - FrontEnd", "{A102DBD6-B856-4DD6-9DBC-27FC1CD5C591}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - BackEnd", "2 - BackEnd", "{55A2210F-E93F-4836-AA4A-B4641E37C6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_Zombie.Domain", "Game_Zombie.Domain\Game_Zombie.Domain.csproj", "{D0C59936-BF96-468C-AE3D-0D9503C5BB9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBC4B6F-1D3D-4592-A2CF-22641AACB4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBC4B6F-1D3D-4592-A2CF-22641AACB4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBC4B6F-1D3D-4592-A2CF-22641AACB4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBC4B6F-1D3D-4592-A2CF-22641AACB4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C59936-BF96-468C-AE3D-0D9503C5BB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C59936-BF96-468C-AE3D-0D9503C5BB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C59936-BF96-468C-AE3D-0D9503C5BB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C59936-BF96-468C-AE3D-0D9503C5BB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BDBC4B6F-1D3D-4592-A2CF-22641AACB4B0} = {A102DBD6-B856-4DD6-9DBC-27FC1CD5C591}
+		{D0C59936-BF96-468C-AE3D-0D9503C5BB9C} = {55A2210F-E93F-4836-AA4A-B4641E37C6AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D084CB-800A-4B49-AD55-BC0500A4B165}
+	EndGlobalSection
+EndGlobal

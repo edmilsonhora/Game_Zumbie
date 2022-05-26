@@ -1,0 +1,14 @@
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\bin\Debug\net5.0-windows\Game_Zombie.Domain.deps.json
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\bin\Debug\net5.0-windows\Game_Zombie.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\bin\Debug\net5.0-windows\ref\Game_Zombie.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\bin\Debug\net5.0-windows\Game_Zombie.Domain.pdb
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\obj\Debug\net5.0-windows\Game_Zombie.Domain.csproj.AssemblyReference.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\obj\Debug\net5.0-windows\Game_Zombie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\obj\Debug\net5.0-windows\Game_Zombie.Domain.AssemblyInfoInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\obj\Debug\net5.0-windows\Game_Zombie.Domain.AssemblyInfo.cs
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\obj\Debug\net5.0-windows\Game_Zombie.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\obj\Debug\net5.0-windows\Game_Zombie.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\obj\Debug\net5.0-windows\ref\Game_Zombie.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\obj\Debug\net5.0-windows\Game_Zombie.Domain.pdb
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\obj\Debug\net5.0-windows\Game_Zombie.Domain.Media.resources
+C:\Users\Edmilson da Hora\source\repos\Game_Zombie\Game_Zombie.Domain\obj\Debug\net5.0-windows\Game_Zombie.Domain.csproj.GenerateResource.cache

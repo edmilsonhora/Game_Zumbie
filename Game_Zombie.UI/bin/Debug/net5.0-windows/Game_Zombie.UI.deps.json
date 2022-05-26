@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Game_Zombie.UI/1.0.0": {
+        "dependencies": {
+          "Game_Zombie.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Game_Zombie.UI.dll": {}
+        }
+      },
+      "Game_Zombie.Domain/1.0.0": {
+        "runtime": {
+          "Game_Zombie.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game_Zombie.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Game_Zombie.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
